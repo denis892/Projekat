@@ -13,7 +13,6 @@ type
     Button2: TButton;
     Button3: TButton;
     Button4: TButton;
-    RadioButton1: TRadioButton;
   private
     { Private declarations }
   public
