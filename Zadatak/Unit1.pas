@@ -9,14 +9,6 @@ uses
 
 type
   TForm1 = class(TForm)
-    Button1: TButton;
-    Button2: TButton;
-    Button3: TButton;
-    Button4: TButton;
-    CheckBox1: TCheckBox;
-    RadioButton1: TRadioButton;
-    CheckBox2: TCheckBox;
-    RadioButton2: TRadioButton;
   private
     { Private declarations }
   public
